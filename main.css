@@ -1,0 +1,12 @@
+.box{
+   width:500px;
+   background-image:url(images.jpg);
+   border:3px solid black;
+   margin-top:200px;
+   padding:80px;
+   margin-bottom:300px;
+   box-shadow:10px 10px 25px 25px white;
+ }
+.form{
+   color:white;
+}
